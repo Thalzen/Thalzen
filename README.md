@@ -56,8 +56,8 @@ A VR magic casting based 1v1 duel where you draw pattern in real time to cast sp
 </i>
 </b>
 </p>
-<a href="">
- <img width="800" src="img\Arena.png" alt="Arena"/>
+<a href="https://github.com/Thalzen/Oeil_du_demon">
+ <img width="800" src="img\Arena.png" alt="GitHub Repository"/>
 </a>
 <h3 align="center">How to find me 🔎</h3>
 <p align="center">

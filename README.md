@@ -9,10 +9,6 @@ namespace HelloWorld
     }
 }
 ```
-```c#
-private string _firstName = "Sébastien";
-private string _lastName = "Miesch";
-```
 <h1 align="center">
     Designer / Developer<br>
     Virtual Reality and 3D Real Time Applications
@@ -46,19 +42,6 @@ private string _lastName = "Miesch";
     <img width="40" src="img\Photoshop.png" alt="Photoshop"/>
     <img width="40" src="img\Illustrator.png" alt="Illustrator"/>
 </p>
-<h2 align="center">
-Currently Working on &quot;L'oeil du démon&quot;
-</h2>
-<p align="center">
-<b>
-<i>
-A VR magic casting based 1v1 duel where you draw pattern in real time to cast spell.           
-</i>
-</b>
-</p>
-<a href="https://github.com/Thalzen/Oeil_du_demon">
- <img width="800" src="img\Arena.png" alt="GitHub Repository"/>
-</a>
 <h3 align="center">How to find me 🔎</h3>
 <p align="center">
 <a href="https://www.artstation.com/thalzen9">

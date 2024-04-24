@@ -10,19 +10,19 @@ namespace HelloWorld
 }
 ```
 <h1 align="center">
-    Designer / Developer<br>
+    Developer<br>
     .NET, Virtual Reality, 3D Real Time Applications.
 </h1>
 
 <p align="justify">
     <b>
         <i>
-            Young developer, particularly fond of video games. 🎮🕹️⌨️🖱️ <br>
-        
-        
-   
+            Young developer, particularly fond of video games. 🎮🕹️⌨️🖱️ 
+        </i>
+    </b>
 </p>
-<p>
+<p align="center">
+    <img width="800" src="img\.Net.png" alt=".NET"/>
     <img width="800" src="img\unity.png" alt="Unity"/>
 </p>
 
@@ -30,7 +30,10 @@ namespace HelloWorld
 
 <p align="center">
     <img width="40" src="img\CSharp.png" alt="C#"/>
-    <img width="40" src="img\C++.png" alt="C++"/>
+    <img width="40" src="img\MySQL.png" alt="MySQL"/>
+    <img width="40" src="img\Python.png" alt="Python"/>
+
+    
 </p>
 
 <h3 align="center">Design</h3>

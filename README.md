@@ -31,7 +31,7 @@ namespace HelloWorld
 <p align="center">
     <img width="40" src="img\CSharp.png" alt="C#"/>
     <img width="40" src="img\MySQL.png" alt="MySQL"/>
-    <img width="40" src="img\Python.png" alt="Python"/>
+    <img width="40" src="img\python.png" alt="Python"/>
 
     
 </p>

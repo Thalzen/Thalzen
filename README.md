@@ -11,14 +11,14 @@ namespace HelloWorld
 ```
 <h1 align="center">
     Designer / Developer<br>
-    Virtual Reality and 3D Real Time Applications
+    .NET, Virtual Reality, 3D Real Time Applications.
 </h1>
 
 <p align="justify">
     <b>
         <i>
             Young developer, particularly fond of video games. 🎮🕹️⌨️🖱️ <br>
-            Nowadays, developing mainly on Unity, I also do 3D Modeling, Skinning, Rigging and Animations. 
+        
         </i>
     </b>
 </p>

@@ -19,8 +19,8 @@ namespace HelloWorld
         <i>
             Young developer, particularly fond of video games. 🎮🕹️⌨️🖱️ <br>
         
-        </i>
-    </b>
+        
+   
 </p>
 <p>
     <img width="800" src="img\unity.png" alt="Unity"/>

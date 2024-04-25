@@ -11,7 +11,7 @@ namespace HelloWorld
 ```
 <h1 align="center">
     Developer<br>
-    .NET, Virtual Reality, 3D Real Time Applications.
+    C#.NET, Virtual Reality, 3D Real Time Applications.
 </h1>
 
 <p align="center">
